@@ -1,4 +1,10 @@
 # Project_1
+
+# CONTEXT OF BRANCHING:
+This is the original repo we were working on. It wasn't clean enough, so it was easier to create a new "cleaner" repo. https://github.com/FillippeLevenchuk/Project_1
+
+We didn't merge all changes we did since we worked a lot via slack showing teammates changes in real time via slack. 
+
 # Comparative Analysis of COVID-19 Cases and Deaths Across Countries and Continents for 2021
 ​
 The investigation of COVID-19 cases and fatalities across various continents and nations is the main focus of this endeavor. The goal is to gain understanding of the pandemic's patterns and trends, comprehend the variances in the virus's propagation among different places, and investigate the effects of various elements on transmission and mortality rates.
